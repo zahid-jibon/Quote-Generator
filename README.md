@@ -1,2 +1,2 @@
-# Quote-Generator
+# Quote-Generator 🔗
 Quote Generator Project using API 📑
